@@ -31,7 +31,7 @@ To obtain this shape :
 3. Then create a cross shape with two boxes and erode the first pyramid.
 4. Finally, add a sphere at the center of the structure.
 
-{% include figure image_path="/assets/images/posts/tribute-shader-1/strange_building.PNG" alt="Oups!" caption="CSV operations to the rescue" %} 
+{% include figure image_path="/assets/images/posts/tribute-shader-1/strange_building.PNG" alt="Oups!" caption="CSG operations to the rescue" %} 
 
 **Et voilà**
 {% include gallery id="gallery" layout="half" %}
