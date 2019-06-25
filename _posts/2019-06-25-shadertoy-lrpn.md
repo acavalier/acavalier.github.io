@@ -1,10 +1,15 @@
 ---
 title: "Shadertoy: LRPN"
+header: 
+    overlay_image: /assets/images/posts/shadertoy-lrpn/LRPN.jpg
+    show_overlay_excerpt: false
+    actions: 
+      - label: "SHADERTOY LINK"
+        url: https://www.shadertoy.com/view/wlf3RH
+classes: wide
 link: https://www.shadertoy.com/view/wlf3RH
-tags: [PRNG,LRPN,Noise,Shadertoy]
-categories: [Links]
+# tags: [PRNG,LRPN,Noise,Shadertoy]
+# categories: [Links]
 ---
 
-{% include figure image_path="/assets/images/posts/shadertoy-lrpn/LRPN.jpg" alt="Oups! Imagine some awesome 2014 sparse/dense convolution noise"  %}
-
-I posted a simple implementation of the [Local Random Phase Noise](https://www.shadertoy.com/view/wlf3RH) model on shadertoy. 
+I posted a simple implementation of the [Local Random Phase Noise](https://www.shadertoy.com/view/wlf3RH) model on shadertoy.
