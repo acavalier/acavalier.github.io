@@ -12,6 +12,10 @@ link: https://www.shadertoy.com/view/wlf3RH
 # categories: [Links]
 ---
 
-I posted a simple implementation of the [Local Random Phase Noise](https://www.shadertoy.com/view/wlf3RH) model on shadertoy.
+I posted a simple implementation of the [Local Random Phase Noise](https://www.unilim.fr/pages_perso/guillaume.gilet/publications/pdf/ProcTextures.pdf) model on [shadertoy](https://www.shadertoy.com/view/wlf3RH).
 
-$$ \text{LRPN}(x,y) = \sum_{i}^{N} w_{i} \; cos(2\pi F_0 (xcos(w_0)+ ysin(w_0)) ) $$
+$$ \text{LRPN}(\mathbf{x}) = \sum_{i}^{N} w(\mathbf{x}-\mathbf{x}_i) \sum_{j}^{M} A_{ij} cos(2\pi \mathbf{F_{ij}} \cdot \mathbf{x} + \phi_{ij}) $$
+
+with : 
+
+$$ F = \begin{pmatrix} F_0 cos(w_0) \\ F_0 sin(w_0) \end{pmatrix} $$
