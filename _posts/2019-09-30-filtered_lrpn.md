@@ -1,25 +1,25 @@
 ---
 title: "Filtering LRPN"
 header: 
-    overlay_image: /assets/images/posts/shadertoy-lrpn/Filtered.jpg
+    overlay_image: /assets/images/posts/shadertoy-lrpn/Filtered.png
     show_overlay_excerpt: false
     actions: 
       - label: "SHADERTOY LINK"
-        url: https://www.shadertoy.com/view/wlf3RH
+        url: https://www.shadertoy.com/view/3dKGRD
 classes: wide
-# link: https://www.shadertoy.com/view/wlf3RH
+# link: https://www.shadertoy.com/view/3dKGRD
 # tags: [PRNG,LRPN,Noise,Shadertoy]
 # categories: [Links]
 ---
 
-Today, I posted a [shadertoy](https://www.shadertoy.com/view/wlf3RH) about the [Local Random Phase Noise](https://www.unilim.fr/pages_perso/guillaume.gilet/publications/pdf/ProcTextures.pdf) again. This implementation shows how to filter it and requires some maths equations that you cand find here.
+Today, I posted a [shadertoy](https://www.shadertoy.com/view/3dKGRD) about the [Local Random Phase Noise](https://www.unilim.fr/pages_perso/guillaume.gilet/publications/pdf/ProcTextures.pdf) again. This implementation shows how to filter it and requires some maths equations that you cand find here.
 
 **PS**
 I will update this post during the week, it's under construction.
 I'm open to suggestions, so email me or put a comment in the shadertoy implementation. 
 
 
-<div align="center"><iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/wlf3RH?gui=true&t=10&paused=true&muted=true" allowfullscreen></iframe></div>
+<div align="center"><iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/3dKGRD?gui=true&t=10&paused=true&muted=true" allowfullscreen></iframe></div>
 
 The local random phase noise, introduced in 2014 by Gilet et al.[^GSVDG14], is a follow-up to the Gabor noise model, presented by Lagae et al. in 2009[^LLDD09] and followed by a series of publications that improved the model. These noise functions are part of a family called Sparse Convolution Noise. It consists in the convolution of an arbitrary kernel function with a sparse points distribution (poisson, stratified, ...).
 In practice, you evaluate a weighted sum of kernels shot at impulses $x_i$.
