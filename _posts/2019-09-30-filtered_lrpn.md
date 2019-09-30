@@ -18,8 +18,7 @@ Today, I posted a [shadertoy](https://www.shadertoy.com/view/3dKGRD) about the [
 I will update this post during the week, it's under construction.
 I'm open to suggestions, so email me or put a comment in the shadertoy implementation. 
 
-
-<div align="center"><iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/3dKGRD?gui=true&t=10&paused=true&muted=true" allowfullscreen></iframe></div>
+<div align="center"><iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/3dKGRD?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe></div>
 
 The local random phase noise, introduced in 2014 by Gilet et al.[^GSVDG14], is a follow-up to the Gabor noise model, presented by Lagae et al. in 2009[^LLDD09] and followed by a series of publications that improved the model. These noise functions are part of a family called Sparse Convolution Noise. It consists in the convolution of an arbitrary kernel function with a sparse points distribution (poisson, stratified, ...).
 In practice, you evaluate a weighted sum of kernels shot at impulses $x_i$.
