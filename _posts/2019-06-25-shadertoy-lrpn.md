@@ -1,5 +1,6 @@
 ---
 title: "Shadertoy: LRPN"
+excerpt: "I posted a simple implementation of the Local Random Phase Noise model on shadertoy."
 header: 
     overlay_image: /assets/images/posts/shadertoy-lrpn/LRPN.jpg
     show_overlay_excerpt: false

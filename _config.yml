@@ -102,10 +102,12 @@ analytics:
 # Site Author
 author:
   name             : "Arthur Cavalier"
+  # avatar           : "/assets/images/avatar/photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   avatar           : "/assets/images/avatar/avatar_1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PHD Student in computer graphics."
-  location         : "Sietch Tabr, Arrakis"
-  email            :
+  location         : "Limoges, France"
+  # location         : "Sietch Tabr, Arrakis"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -275,6 +277,11 @@ compress_html:
     envs: development
 
 
+collections:
+  research:
+    output: true
+    permalink: /:collection/:path/
+
 # Defaults
 defaults:
   # _posts
@@ -295,3 +302,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single

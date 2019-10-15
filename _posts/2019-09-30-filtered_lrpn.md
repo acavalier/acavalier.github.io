@@ -1,5 +1,6 @@
 ---
 title: "Filtering LRPN"
+excerpt: "I posted another implementation of the Local Random Phase Noise which explains how to filter it using the gabor noise formulation."
 header: 
     overlay_image: /assets/images/posts/shadertoy-lrpn/Filtered.png
     show_overlay_excerpt: false
