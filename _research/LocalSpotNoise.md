@@ -51,7 +51,7 @@ To deal with the increasing demand for complex visual details in virtual worlds,
 
 ## Paper & Supplementary materials
 * To appear in Computer & Graphics
-* [PrePrint](https://drive.google.com/open?id=1YepitrkyLutXAyLMqlo_o3v3L40GRs5O) - [Supplementary material](https://drive.google.com/open?id=1O8lPafIZomBJwGNFB_4-B7daHsXkKbYV) - [Video](https://drive.google.com/open?id=1GuYmwLssD9Lh6eX8DyNKeC-lv-Df58QA)
+* [PrePrint](https://drive.google.com/open?id=1kDm5cZJr2pfsRdctTNO8oxUDz7LU_dqG) - [Supplementary material](https://drive.google.com/open?id=1O8lPafIZomBJwGNFB_4-B7daHsXkKbYV) - [Video](https://drive.google.com/open?id=1GuYmwLssD9Lh6eX8DyNKeC-lv-Df58QA)
 * Shadertoy implementations (tested on firefox): 
     * [On-the-fly Filtering](https://www.shadertoy.com/view/3dcGW7)
     * [On-the-fly Normal mapping](https://www.shadertoy.com/view/Wdc3W7)
