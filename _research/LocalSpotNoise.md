@@ -50,10 +50,10 @@ sidebar:
 To deal with the increasing demand for complex visual details in virtual worlds, procedural methods for content authoring are an expanding field in Computer Graphics. Focusing on on-the-fly texture generation, we present in this paper a content authoring process based on Locally Controlled Spot Noise. Through the control of both the impulses distribution and the spatially-defined kernel, this process can cover a wide range of appearances. In this context, we introduce a new kernel formulation that provides an efficient anisotropic filtering of the generated texture. Furthermore, our method allows users to interactively create the desired appearance by controlling both albedo and meso-geometry of the underlying surface, tackling on-the-fly normal map generation. Our method can be used as an artist friendly tool to model high-quality surface details with direct control over the final appearance in real-time.
 
 ## Paper & Supplementary materials
-* To appear in Computer & Graphics
+* [Computer & Graphics](https://www.sciencedirect.com/science/article/abs/pii/S0097849319301608)
 * [PrePrint](https://drive.google.com/open?id=1kDm5cZJr2pfsRdctTNO8oxUDz7LU_dqG) - [Supplementary material](https://drive.google.com/open?id=1O8lPafIZomBJwGNFB_4-B7daHsXkKbYV) - [Video](https://drive.google.com/open?id=1GuYmwLssD9Lh6eX8DyNKeC-lv-Df58QA)
 * Shadertoy implementations (tested on firefox): 
-    * [On-the-fly Filtering](https://www.shadertoy.com/view/3dcGW7)
+    * [On-the-fly Filtering](https://www.shadertoy.com/view/tdyXzK)
     * [On-the-fly Normal mapping](https://www.shadertoy.com/view/Wdc3W7)
     * [Spatially varying pattern using control map](https://www.shadertoy.com/view/Ws33W7)
 
