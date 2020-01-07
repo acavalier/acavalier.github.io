@@ -104,8 +104,8 @@ author:
   name             : "Arthur Cavalier"
   # avatar           : "/assets/images/avatar/photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   avatar           : "/assets/images/avatar/avatar_1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PHD Student in computer graphics."
-  location         : "Limoges, France"
+  bio              : "PhD and Research Engineer in Computer Graphics."
+  location         : "Poitiers, France"
   # location         : "Sietch Tabr, Arrakis"
   email            : 
   links:
