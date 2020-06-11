@@ -43,6 +43,7 @@ sidebar:
   - title: "Guillaume Gilet"
   - title: "Djamchid Ghazanfarpour"
     text: "Université de Limoges, CNRS, XLIM, UMR 7252, F-87000 Limoges, France"
+last_modified_at: 2020-06-11
 ---
 
 ## Abstract
@@ -51,6 +52,7 @@ To deal with the increasing demand for complex visual details in virtual worlds,
 
 ## Paper & Supplementary materials
 * [Computer & Graphics](https://www.sciencedirect.com/science/article/abs/pii/S0097849319301608)
+* [HAL](https://hal.archives-ouvertes.fr/hal-02368110) - [Preprint](https://hal.archives-ouvertes.fr/hal-02368110/document) (compressed) - [Supplementary material](https://hal.archives-ouvertes.fr/hal-02368110/file/local_spot_noise_supplementary.pdf) (compressed)
 * [PrePrint](https://drive.google.com/open?id=1kDm5cZJr2pfsRdctTNO8oxUDz7LU_dqG) - [Supplementary material](https://drive.google.com/open?id=1O8lPafIZomBJwGNFB_4-B7daHsXkKbYV) - [Video](https://drive.google.com/open?id=1GuYmwLssD9Lh6eX8DyNKeC-lv-Df58QA)
 * Shadertoy implementations (tested on firefox): 
     * [On-the-fly Filtering](https://www.shadertoy.com/view/tdyXzK)
